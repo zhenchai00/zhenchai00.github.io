@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to zhenchai Testing Blog
+This is my testing blog regarding the GitHub pages.io where it is the free simple website hosting provider also it is git services providers
 
-You can use the [editor on GitHub](https://github.com/zhenchai00/zhenchai00.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## About me
+- From Malaysia
+- 22 years old
+- Hightest Education in Diploma in Information Technology at Putra Intelek International College
+- Interested on CyberSecurity, AI technology, Machine Learning and etc
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhenchai00/zhenchai00.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Achieved
+- Simple Discord.js bot 
+- PHP OOP 
+- ExtJS Framework
+- (Will be achieve more on future)
